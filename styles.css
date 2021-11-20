@@ -40,7 +40,7 @@ html {
     --regular: 400;
 
     background: linear-gradient(var(--red-transparency), var(--red-transparency)),
-    url(/images/bg-intro-mobile.png);
+    url(./images/bg-intro-mobile.png);
     height: 100%;
 }
 body{    
@@ -159,7 +159,7 @@ header{
 @media only screen and (min-width: 800px){
     :root{
         background: linear-gradient(var(--red-transparency), var(--red-transparency)),
-    url(/images/bg-intro-desktop.png);
+    url(./images/bg-intro-desktop.png);
     padding: 50px 60px;
     }
     body{
